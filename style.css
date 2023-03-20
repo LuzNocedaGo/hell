@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header{
+    display: flex;
+    align-items: center;
+    background-color: rgb(2, 2, 51);
+    height: 100px;
+    justify-content: space-around;
+}
+nav a{
+    text-decoration: none;
+}
+nav a p{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.text1{
+    margin-right: 100px;
+}
+.text3{
+    margin-left: 100px;
+}
+main h1{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 30px;
+}
+.ifu-1{
+    margin-top: 100px;
+}
+.lol{
+    border: 2px rgb(0, 255, 13) solid;
+    border-radius: 40px;
+    height: 200px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 45px;
+    margin-top: 10px;
+}
+.box{
+    margin-top: 70px;
+}
